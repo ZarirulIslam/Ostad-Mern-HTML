@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ca7da1b-bad5-406c-938a-6d28e3db1c87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day72/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day72/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Developement Tutorial/Ostad-Mern-All/Ostad-Mern-HTML",
+    "last_opened_file_path": "D:/Developement Tutorial/Ostad-Mern-All/Ostad-Mern-CSS",
     "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
@@ -42,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675045525093</updated>
       <workItem from="1675045526355" duration="10482000" />
+      <workItem from="1675478123416" duration="729000" />
     </task>
     <servers />
   </component>
